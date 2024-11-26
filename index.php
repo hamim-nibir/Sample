@@ -36,9 +36,9 @@
             <p><strong>Permanent Address:</strong> 456 Elm Street, Hometown, State</p>
         </section>
         <section class = "buttons">
-            <button class = "btn btn-primary" type="button" id="edit-profile-btn">Edit Profile</button>
-            <a href="logout.php"><button class = "btn btn-primary" type="button" id="edit-profile-btn">Logout</button>
-            </section></a>
+            <a href="profile.php"><button class = "btn btn-primary" type="button" id="edit-profile-btn">Edit Profile</button></a>
+            <a href="logout.php"><button class = "btn btn-primary" type="button" id="edit-profile-btn">Logout</button></a>
+            </section>
 
     </div>
     
