@@ -27,6 +27,8 @@
                 mysqli_stmt_bind_param($stmt, "sss", $userName, $Email, $passwordHash);
                 mysqli_stmt_execute($stmt);
                 echo "<script>alert('Success!')</script>";
+                header('Location: dashboard.php');
+                exit;
             }
             else{
                 die("Something went wrong");
