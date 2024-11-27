@@ -2,4 +2,4 @@
 For submission on 27th November
 
 Update :
-Submitted and al requirements filled up.
+Submitted and all requirements filled up.
